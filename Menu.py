@@ -11,7 +11,7 @@ elif selected == "2":
 elif selected == "3":
     import Mission_12
 elif selected == "4":
-    import MapReveal
+    import Mission_2
 elif selected == "5":
     import Mission_4    
 
