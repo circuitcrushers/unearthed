@@ -7,11 +7,11 @@ selected = hub_menu("1", "2", "3", "4", "5")
 if selected == "1":
     import Mission_5_6_7_8
 elif selected == "2":
-    import Mission_9_10_1
+    import Mission_9_10
 elif selected == "3":
-    import SalvageOperation
+    import Mission_12
 elif selected == "4":
     import MapReveal
 elif selected == "5":
-    import Careful_Recovery_1    
+    import Mission_4    
 
