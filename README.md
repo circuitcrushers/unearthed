@@ -35,7 +35,7 @@ _Mission 3, 9, 10 and 13 are called mineshaft explorer, what is on sale, tip the
 ---
 
 ### 🎯 `Mission_12.py`
-**Description:**  
+
 _Mission 12 is called salvage opperation. We use the hook only._
 
 ---
