@@ -10,9 +10,9 @@ _The menu is used to select which robot code to run by select 1,2,3,4 or 5 slots
 
 ---
 
-### 🛰️`Mission_2.py`
+### 🛰️`Mission_1_2.py`
 
-_Mission 2 is called map reveal. We use the attachments called the spork, the wheeler, and the hook._
+_Mission 1 and 2 are called surface brushing and map reveal. We use the attachments called the stick, the spork, the wheeler, and the hook._
 
 ---
 
@@ -28,9 +28,9 @@ _Mission 5, 6, 7, and 8 are called who lived here, forge, heavy lifting, and sil
 
 ---
 
-### 🎡 `Mission_9_10.py`
+### 🎡 `Mission_3_9_10_13.py`
 
-_Mission 9 and 10 are what is on sale and tip the scales. We use the hook and the slider._
+_Mission 3, 9, 10 and 13 are called mineshaft explorer, what is on sale, tip the scales and statue rebuild. We use the attachements the hook, the slider and the stick._
 
 ---
 
